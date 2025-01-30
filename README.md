@@ -42,7 +42,7 @@ This project was developed during my internship at SEDCO in the summer of 2024. 
 - [**App Testing Video**](https://youtu.be/5NQG6BgDbJw?si=6LRKsrf-UEa1_Io-) 
   *(A demonstration of the full application, including user and package management.)*  
 
-- [**Face Detection DLL Testing Video**](https://youtu.be/6e2pmuPBWhU?si=dpefZYN3mOBMWqnd)  
+- [**Face Detection DLL Testing Video**](https://youtu.be/QTPNf8ESYG4?si=qLKEbVo-wByAEj2G)
   *(A demonstration of the standalone face detection module using OpenCvSharp and Dlib.)*  
 
 ## Highlights
