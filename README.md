@@ -39,7 +39,7 @@ This project was developed during my internship at SEDCO in the summer of 2024. 
 
 ## Videos
 
-- [**App Testing Video**](https://youtu.be/6e2pmuPBWhU?si=dpefZYN3mOBMWqnd) 
+- [**App Testing Video**](https://youtu.be/5NQG6BgDbJw?si=6LRKsrf-UEa1_Io-) 
   *(A demonstration of the full application, including user and package management.)*  
 
 - [**Face Detection DLL Testing Video**](https://youtu.be/6e2pmuPBWhU?si=dpefZYN3mOBMWqnd)  
