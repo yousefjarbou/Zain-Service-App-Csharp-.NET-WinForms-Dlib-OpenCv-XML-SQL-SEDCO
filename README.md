@@ -1,4 +1,4 @@
-# Zain Service App C#-.NET-WinForms-Dlib-OpenCv-XML-SQL SEDCO September-2024
+# Zain Service App C#-.NET-WinForms-Dlib-OpenCv-XML-SQL SEDCO September-2024 
 
 This project was developed during my internship at SEDCO in the summer of 2024. It is a comprehensive customer service application designed to manage user data and streamline customer interactions. The project highlights my strong object-oriented programming (OOP) skills, advanced use of technologies, and ability to create flexible, scalable systems.
 
